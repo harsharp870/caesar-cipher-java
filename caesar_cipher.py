@@ -2,7 +2,7 @@ import customtkinter as ctk
 from tkinter import messagebox
 
 # Theme settings
-ctk.set_appearance_mode("white")
+ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("red")
 
 # Caesar Cipher Logic
