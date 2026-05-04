@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 # Theme settings
 ctk.set_appearance_mode("dark")
-ctk.set_default_color_theme("red")
+ctk.set_default_color_theme("blue")
 
 # Caesar Cipher Logic
 def encrypt(text, shift):
