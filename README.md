@@ -23,7 +23,7 @@ It allows users to encrypt and decrypt messages using a shift-based cipher.
 2. Install required library:
    pip install customtkinter
 3. Run the file:
-   python main.py
+   python caesar_cipher.py
 ---
 
 ##Working Principle
